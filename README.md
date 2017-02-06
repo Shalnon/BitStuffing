@@ -1,3 +1,4 @@
+Author: Sean Halnon
 # BitStuffing
 Bit stuffing demo in C++, however coded mostly in C style. 
 
